@@ -1,0 +1,1 @@
+A coffee shop website with a responsive design.
