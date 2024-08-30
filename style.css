@@ -339,6 +339,10 @@ p {
         padding: 100px 30px;
     }
 
+    .header-content h1 {
+        font-size: 55px;
+    }
+
     .header-content p {
         padding: 0;
     }
@@ -349,6 +353,7 @@ p {
 
     .coffee-content h2 {
         padding: 0;
+        font-size: 55px;
     }
 
     .txt-p {
@@ -366,6 +371,10 @@ p {
 
     .services {
         padding: 30px;
+    }
+
+    .services-content h2 {
+        font-size: 45px;
     }
 
     .services-content p {
@@ -391,6 +400,10 @@ p {
         text-align: center;
     }
 
+    .general-1 h2 {
+        font-size: 45px;
+    }
+   
     .general-2, .general-3 {
         display: none;
     }
